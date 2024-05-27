@@ -1,0 +1,17 @@
+{
+    "name": "ld-web/pe9-php",
+    "description": "Pe9 PHP rappel",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lana Karmaoui",
+            "email": "lana.karmaoui@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "require": {}
+}
